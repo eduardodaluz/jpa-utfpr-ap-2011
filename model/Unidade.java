@@ -1,0 +1,7 @@
+package model;
+
+public enum Unidade {
+    
+    METROS, LITROS, CENTRIMETROS, QUILOS, GRAMAS, QUILOMETROS, CAIXAS, PACOTES, ENGRADADOS;
+
+}

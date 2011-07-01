@@ -1,0 +1,12 @@
+
+Autores:
+- Alex Sandro de Oliveira Ezequiel.
+- Eduardo Rodrigues da Luz.
+
+Descrição:
+Boutique DasPobre Comério de Artigos Contrabandeados SA.
+A Boutique DasPobre Comério de Artigos Contrabandeados SA, contrata desenvolvedores para criação de um controle de estoque.
+
+O Principal objetivo é controlar quais fornecedores são capazes de entregar semanalmente cada produto, ou melhor, quanto de cada produto, haja visto que, pela natureza dos produtos "importados", não é possível conseguir grandes quantidades de um mesmo fornecedor.
+
+Deverá ter uma tela de consulta para saber quais fornecedores deverão ser acionados para atender um "eventual" pedido.
