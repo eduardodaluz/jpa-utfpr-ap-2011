@@ -10,3 +10,9 @@ A Boutique DasPobre Comério de Artigos Contrabandeados SA, contrata desenvolved
 O Principal objetivo é controlar quais fornecedores são capazes de entregar semanalmente cada produto, ou melhor, quanto de cada produto, haja visto que, pela natureza dos produtos "importados", não é possível conseguir grandes quantidades de um mesmo fornecedor.
 
 Deverá ter uma tela de consulta para saber quais fornecedores deverão ser acionados para atender um "eventual" pedido.
+
+Recursos:
+	- Netbeans
+	- Swing
+	- JPA + Hibernate
+	- MVC
